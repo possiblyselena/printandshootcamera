@@ -16,3 +16,14 @@ I researched similar projects to see what they did. Many thermal print cameras u
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTkxLCJwdXIiOiJibG9iX2lkIn19--52b197829072006415c6fb491377c24a6adad040/image.png) Next, I'm going to make a schematic with all my connections and get started on my pcb :D
   
 
+## 10/6/2025 - Laid out my schematic and made my pcb!  
+
+I researched more into parts, and applied them into the schematic! I asked for some help and clarification in #blueprint to know if I'm powering my components correctly. I'm only designing a PCB so I can connect stuff better, so I don't need to order an assembly, and all my components are modules. I had to design a custom symbol and footprint for my beak converter. I laid them out in the PCB editor, and next time I'll route them. But for now, I know what parts I'm using and put them in my BOM for reference.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODEyLCJwdXIiOiJibG9iX2lkIn19--b3f44fe54be2a832a687c92ecb689a3771acb3b2/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODEzLCJwdXIiOiJibG9iX2lkIn19--a9d98ca462aace5016ec425e396bbe118948e9b9/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODE0LCJwdXIiOiJibG9iX2lkIn19--5b93ce824f54528402d870fd6a26594fbe6b88c5/image.png)
+
+It should look prettier by tomorrow, but I'm proud of myself for figuring this out. 
+
+  
+
